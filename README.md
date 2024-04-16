@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nilesh Pandey&show_icons=true&locale=en&layout=compact" alt="Nilesh Pandey" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nilesh Pandey&show_icons=true&locale=en" alt="solankiboy939" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nilesh Pandey&show_icons=true&locale=en" alt="Nilesh Pandey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh Pandey&" alt="Nilesh Pandey" /></p>
