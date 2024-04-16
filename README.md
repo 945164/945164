@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [python](https://github.com/945164/Week3_python_cipherschools)
 
-- 📫 How to reach me *Solankimanohar2176@gmail.com*
+- 📫 How to reach me *np1632024@gmail.com*
 
 - ⚡ Fun fact *I think I am funny*
 
