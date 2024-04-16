@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilesh Pandey</h1>
-<h3 align="center">A passionate frontend Machine Learningand model and AI Algorith from India</h3>
+<h3 align="center">A passionate Cyber Security and Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=945164&label=Profile%20views&color=0e75b6&style=flat" alt="945164" /> </p>
 
